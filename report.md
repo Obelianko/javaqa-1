@@ -1,8 +1,6 @@
-## **Отчёт о тестировании Credit Card Number Validator**
----
+# **Отчёт о тестировании Credit Card Number Validator**
 
-# **Краткое описание**
----
+## **Краткое описание**
 
 21/05/21-21/05/21  было проведена проверка валидации кредитных карт приложения Credit Card Number Validator.
 
@@ -14,10 +12,7 @@
 - https://github.com/Obelianko/javaqa-1/issues/2
 - https://github.com/Obelianko/javaqa-1/issues/1
 
-#**Описание процесса тестирования**
-***
----
-______________
+## **Описание процесса тестирования**
 
 Тестирование проводилось с использованием IntelljIdea
 
