@@ -8,9 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-- https://github.com/Obelianko/javaqa-1/issues/3
-- https://github.com/Obelianko/javaqa-1/issues/2
-- https://github.com/Obelianko/javaqa-1/issues/1
+- [AMEX credit cards are not able to validate](https://github.com/Obelianko/javaqa-1/issues/3)
+- [Diners club credit cards validation failed](https://github.com/Obelianko/javaqa-1/issues/2)
+- [валидация карт платежной системы MIR](https://github.com/Obelianko/javaqa-1/issues/1)
 
 ## **Описание процесса тестирования**
 
@@ -18,8 +18,8 @@
 
 В качестве тестовых данных использовались данные карт сгенерерованные на следующих ресурсах:
 
-- https://fakepersongenerator.com/credit-card-generator;
-- https://creditcardgenerator.in/bulk-credit-card-generator
+- [Fakepersongenerator](https://fakepersongenerator.com/credit-card-generator);
+- [Creditcardgenerator](https://creditcardgenerator.in/bulk-credit-card-generator)
 
 Карты платежной системы MAstercard:
 
